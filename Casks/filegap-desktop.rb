@@ -1,6 +1,6 @@
 cask "filegap-desktop" do
-  version "0.1.0"
-  sha256 "f95a31738bb50f924c10b0b4b926867b689cb6546a5502d1fad793928abf67ce"
+  version "0.1.1"
+  sha256 "f31be6efd0d5caff791ec8967f39b5ba174723e09fa9ed8787f8c446691ca311"
 
   url "https://github.com/filegap/filegap/releases/download/desktop-v#{version}/Filegap%20Desktop_#{version}_aarch64.dmg"
   name "Filegap Desktop"
