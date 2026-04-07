@@ -1,8 +1,8 @@
 class Filegap < Formula
   desc "Privacy-first PDF tools that run locally. Your files never leave your device"
   homepage "https://github.com/filegap/filegap"
-  url "https://github.com/filegap/filegap/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "33f41fc77ad00b265e5ec9a163ecdcfa82d7d36656c16cc4700b784e3cb707f6"
+  url "https://github.com/filegap/filegap/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "d950cbc617e85bee3d3c71df9df858be5a6053a9ab086d7448066c05d75bc6d2"
   license "MIT"
 
   depends_on "rust" => :build
