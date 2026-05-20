@@ -1,8 +1,8 @@
 cask "filegap-desktop" do
-  version "0.1.8"
-  sha256 "2b803673776a3392ede3590c0dd9754a031bdd5936eff0eb22acf72af7cab6ca"
+  version "0.1.9"
+  sha256 "a608f652fa1f0085e0fbac149abfb9428a38c8d888488251293289a06cbbbaec"
 
-  url "https://github.com/filegap/filegap/releases/download/desktop-v#{version}/Filegap.Desktop_0.1.8_aarch64.dmg"
+  url "https://github.com/filegap/filegap/releases/download/desktop-v#{version}/Filegap.Desktop_0.1.9_aarch64.dmg"
   name "Filegap Desktop"
   desc "Privacy-first local PDF desktop app"
   homepage "https://github.com/filegap/filegap"
