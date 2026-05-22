@@ -8,7 +8,7 @@ cask "filegap-desktop" do
   homepage "https://github.com/filegap/filegap"
 
   auto_updates false
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Filegap Desktop.app"
 end
